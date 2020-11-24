@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.7)  8 NOV 2020 20:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.7)  24 NOV 2020 15:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -182,6 +182,9 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
+(/usr/local/texlive/2020basic/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
 (/usr/local/texlive/2020basic/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.
 def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
@@ -277,7 +280,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2020basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 ]
-<Countries.png, id=64, 602.25pt x 372.39125pt>
+<Countries.png, id=66, 602.25pt x 372.39125pt>
 File: Countries.png Graphic file (type png)
 <use Countries.png>
 Package pdftex.def Info: Countries.png  used on input line 59.
@@ -291,7 +294,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 59--60
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-<diagram2.png, id=71, 602.25pt x 372.39125pt>
+<diagram2.png, id=73, 602.25pt x 372.39125pt>
 File: diagram2.png Graphic file (type png)
 <use diagram2.png>
 Package pdftex.def Info: diagram2.png  used on input line 63.
@@ -301,10 +304,10 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 63--64
 [][] 
  []
 
-<diagram4.png, id=72, 602.25pt x 372.39125pt>
-File: diagram4.png Graphic file (type png)
-<use diagram4.png>
-Package pdftex.def Info: diagram4.png  used on input line 67.
+<diagram1.png, id=74, 602.25pt x 372.39125pt>
+File: diagram1.png Graphic file (type png)
+<use diagram1.png>
+Package pdftex.def Info: diagram1.png  used on input line 67.
 (pdftex.def)             Requested size: 345.0pt x 213.33347pt.
 
 Overfull \hbox (15.0pt too wide) in paragraph at lines 67--68
@@ -315,47 +318,47 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 67--68
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4 <./Countries.png> <./diagram2.png>]
-<diagram1.png, id=79, 602.25pt x 372.39125pt>
-File: diagram1.png Graphic file (type png)
-<use diagram1.png>
-Package pdftex.def Info: diagram1.png  used on input line 71.
+<group_work.png, id=81, 602.25pt x 372.39125pt>
+File: group_work.png Graphic file (type png)
+<use group_work.png>
+Package pdftex.def Info: group_work.png  used on input line 72.
 (pdftex.def)             Requested size: 345.0pt x 213.33347pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 71--72
+Overfull \hbox (15.0pt too wide) in paragraph at lines 72--73
 [][] 
  []
 
-<diagram3.png, id=80, 602.25pt x 372.39125pt>
+<diagram3.png, id=82, 602.25pt x 372.39125pt>
 File: diagram3.png Graphic file (type png)
 <use diagram3.png>
-Package pdftex.def Info: diagram3.png  used on input line 75.
+Package pdftex.def Info: diagram3.png  used on input line 76.
 (pdftex.def)             Requested size: 345.0pt x 213.33347pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 75--76
+Overfull \hbox (15.0pt too wide) in paragraph at lines 76--77
 [][] 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7030) has occurred while \output is active []
 
- [5 <./diagram4.png> <./diagram1.png>] (./clanok-2.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
+ [5 <./diagram1.png> <./group_work.png>] (./clanok-2.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
  [6 <./diagram3.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
 
 (./clanok-2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
 Package rerunfilecheck Info: File `clanok-2.out' has not changed.
 (rerunfilecheck)             Checksum: D1740794F00EEFAE2C101C074E6078EE;495.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 5578 strings out of 482056
- 85779 string characters out of 5937675
- 342598 words of memory out of 5000000
- 21140 multiletter control sequences out of 15000+600000
- 546168 words of font info for 51 fonts, out of 8000000 for 9000
+ 5589 strings out of 482056
+ 86105 string characters out of 5937675
+ 342683 words of memory out of 5000000
+ 21145 multiletter control sequences out of 15000+600000
+ 546944 words of font info for 52 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  34i,7n,29p,1599b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/ljfour/jkna
@@ -369,16 +372,17 @@ f-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </Users/pollinbrice/Library/t
 exlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </Users/
 pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
 x0900.600pk> </Users/pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/l
-jfour/jknappen/ec/ectt0900.600pk> </Users/pollinbrice/Library/texlive/2020basic
-/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </Users/pollinbrice/Libr
-ary/texlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </U
+jfour/jknappen/ec/ecbx1000.600pk> </Users/pollinbrice/Library/texlive/2020basic
+/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk> </Users/pollinbrice/Libr
+ary/texlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </U
 sers/pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/e
-c/tcrm1200.600pk> </Users/pollinbrice/Library/texlive/2020basic/texmf-var/fonts
-/pk/ljfour/jknappen/ec/ecrm1728.600pk>
-Output written on clanok-2.pdf (6 pages, 177004 bytes).
+c/ecrm1200.600pk> </Users/pollinbrice/Library/texlive/2020basic/texmf-var/fonts
+/pk/ljfour/jknappen/ec/tcrm1200.600pk> </Users/pollinbrice/Library/texlive/2020
+basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk>
+Output written on clanok-2.pdf (6 pages, 181933 bytes).
 PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 19 named destinations out of 1000 (max. 500000)
+ 474 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
  98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
