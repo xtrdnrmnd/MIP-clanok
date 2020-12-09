@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.7)  8 DEC 2020 13:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.7)  9 DEC 2020 04:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -275,75 +275,75 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2020basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 ]
-<Countries.png, id=98, 602.25pt x 372.39125pt>
+<Countries.png, id=95, 602.25pt x 372.39125pt>
 File: Countries.png Graphic file (type png)
 <use Countries.png>
-Package pdftex.def Info: Countries.png  used on input line 55.
+Package pdftex.def Info: Countries.png  used on input line 54.
 (pdftex.def)             Requested size: 241.49895pt x 149.32889pt.
  [3]
-<diagram2.png, id=105, 602.25pt x 372.39125pt>
+<diagram2.png, id=103, 602.25pt x 372.39125pt>
 File: diagram2.png Graphic file (type png)
 <use diagram2.png>
-Package pdftex.def Info: diagram2.png  used on input line 59.
+Package pdftex.def Info: diagram2.png  used on input line 58.
 (pdftex.def)             Requested size: 241.49895pt x 149.32889pt.
-<diagram1.png, id=106, 602.25pt x 372.39125pt>
+<diagram1.png, id=104, 602.25pt x 372.39125pt>
 File: diagram1.png Graphic file (type png)
 <use diagram1.png>
-Package pdftex.def Info: diagram1.png  used on input line 63.
+Package pdftex.def Info: diagram1.png  used on input line 62.
 (pdftex.def)             Requested size: 241.49895pt x 149.32889pt.
 
 [4 <./Countries.png> <./diagram2.png> <./diagram1.png>]
-<group_work.png, id=114, 602.25pt x 372.39125pt>
+<group_work.png, id=112, 602.25pt x 372.39125pt>
 File: group_work.png Graphic file (type png)
 <use group_work.png>
-Package pdftex.def Info: group_work.png  used on input line 68.
+Package pdftex.def Info: group_work.png  used on input line 67.
 (pdftex.def)             Requested size: 241.49895pt x 149.32889pt.
-<diagram3.png, id=115, 602.25pt x 372.39125pt>
+<diagram3.png, id=113, 602.25pt x 372.39125pt>
 File: diagram3.png Graphic file (type png)
 <use diagram3.png>
-Package pdftex.def Info: diagram3.png  used on input line 72.
+Package pdftex.def Info: diagram3.png  used on input line 71.
 (pdftex.def)             Requested size: 241.49895pt x 149.32889pt.
- [5 <./group_work.png> <./diagram3.png>] (./clanok-2.bbl [6])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
+ [5 <./group_work.png> <./diagram3.png>] [6] (./clanok-2.bbl [7])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+ [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./clanok-2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
 Package rerunfilecheck Info: File `clanok-2.out' has not changed.
-(rerunfilecheck)             Checksum: B54B71DA5E442174941BE4B887A7B81B;1134.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
+(rerunfilecheck)             Checksum: FDEABDB5AB58E3C9E03A18F7690A446B;1070.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 5607 strings out of 482056
- 86390 string characters out of 5937675
- 342671 words of memory out of 5000000
- 21154 multiletter control sequences out of 15000+600000
+ 5623 strings out of 482056
+ 86542 string characters out of 5937675
+ 341789 words of memory out of 5000000
+ 21157 multiletter control sequences out of 15000+600000
  546944 words of font info for 52 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 34i,7n,29p,1599b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,7n,29p,1594b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/ljfour/jkna
 ppen/ec/ecti1000.600pk> </Users/pollinbrice/Library/texlive/2020basic/texmf-var
-/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </Users/pollinbrice/Library/texliv
-e/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsl1000.600pk> </Users/polli
-nbrice/Library/texlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800
+/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </Users/pollinbrice/Library/texliv
+e/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </Users/polli
+nbrice/Library/texlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsl1000
 .600pk> </Users/pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/ljfour
-/jknappen/ec/tcrm0600.600pk> </Users/pollinbrice/Library/texlive/2020basic/texm
-f-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </Users/pollinbrice/Library/t
-exlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </Users/
+/jknappen/ec/ecrm0800.600pk> </Users/pollinbrice/Library/texlive/2020basic/texm
+f-var/fonts/pk/ljfour/jknappen/ec/tcrm0600.600pk> </Users/pollinbrice/Library/t
+exlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </Users/
 pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
-x0900.600pk> </Users/pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/l
-jfour/jknappen/ec/ecbx1000.600pk> </Users/pollinbrice/Library/texlive/2020basic
+x1440.600pk> </Users/pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/l
+jfour/jknappen/ec/ecbx0900.600pk> </Users/pollinbrice/Library/texlive/2020basic
 /texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk> </Users/pollinbrice/Libr
 ary/texlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </U
 sers/pollinbrice/Library/texlive/2020basic/texmf-var/fonts/pk/ljfour/jknappen/e
 c/ecrm1200.600pk> </Users/pollinbrice/Library/texlive/2020basic/texmf-var/fonts
 /pk/ljfour/jknappen/ec/tcrm1200.600pk> </Users/pollinbrice/Library/texlive/2020
 basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk>
-Output written on clanok-2.pdf (7 pages, 193555 bytes).
+Output written on clanok-2.pdf (8 pages, 198170 bytes).
 PDF statistics:
- 541 PDF objects out of 1000 (max. 8388607)
- 166 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 154 words of extra memory for PDF output out of 10000 (max. 10000000)
 

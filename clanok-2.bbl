@@ -1,5 +1,11 @@
 \begin{thebibliography}{1}
 
+\bibitem{inquiry}
+Thorsten Bell, Detlef Urhahne, Sascha Schanze, and Rolf Ploetzner.
+\newblock Collaborative inquiry learning: Models, tools, and challenges.
+\newblock {\em International Journal of Science Education}, 32(3):349--377,
+  2010.
+
 \bibitem{collab2}
 Christopher Brooks, Jim Greer, Erica Melis, and Carsten Ullrich.
 \newblock Combining its and elearning technologies: Opportunities and
@@ -15,5 +21,20 @@ Declan Dagger, Vincent~P. Wade, and Owen Conlan.
 \newblock In Paul M.~E. De~Bra and Wolfgang Nejdl, editors, {\em Adaptive
   Hypermedia and Adaptive Web-Based Systems}, pages 55--64, Berlin, Heidelberg,
   2004. Springer Berlin Heidelberg.
+
+\bibitem{Learning}
+Sophie Guterl.
+\newblock Is teaching to a student’s “learning style” a bogus idea?
+\newblock {\em Scientific American}, 2013.
+
+\bibitem{Flipped}
+Stephen Noonoo.
+\newblock Flipped learning founders set the record straight.
+\newblock {\em T.H.E. Journal}, 2012.
+
+\bibitem{vessel}
+Vanessa Rodriguez.
+\newblock The teaching brain and the end of the empty vessel.
+\newblock {\em Mind, Brain, and Education}, 6(4):177--185, 2012.
 
 \end{thebibliography}
